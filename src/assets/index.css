@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  --color-text: black;
+}
+
+.dark {
+  --color-text: white; /* Color de texto oscuro */
+}
+
+.dropdown-custom {
+  background-color: #e2e8f0 !important; /* Color para modo claro (bg-slate-200) */
+  border: 1px solid #e5e7eb !important; /* Borde claro (border-gray-100) */
+}
+
+.dark .dropdown-custom {
+  background-color: #2d3748 !important; /* Color para modo oscuro (dark:bg-gray-800) */
+  border: 1px solid #4a5568 !important; /* Borde oscuro (dark:border-gray-600) */
+}
+
+/* Estilos para las opciones del dropdown */
+.dropdown-custom-option {
+  @apply flex items-center p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded;
+}
+
+.dropdown-custom-value {
+  @apply flex items-center;
+}
+
+.dropdown-custom-flag {
+  @apply mr-2 text-lg; /* Ajusta el tamaño de la bandera */
+}
+
+body {
+  @apply font-monserrat;
+  color: var(--color-text);
+}
