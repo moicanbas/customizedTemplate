@@ -1,0 +1,10 @@
+{
+  "lang": "Idiomas",
+  "welcome": "Bienvenido",
+  "chooseLanguage": "Escoger Idioma",
+  "seeOptions": "Ver Opciones",
+
+  "greeting": "¡Hola, {name}!",
+  "logout": "Cerrar sesión",
+  "profile": "Perfil"
+}

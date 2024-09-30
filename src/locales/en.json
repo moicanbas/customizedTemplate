@@ -1,0 +1,9 @@
+{
+  "lang": "Languages",
+  "welcome": "Welcome",
+  "chooseLanguage": "Choose Language",
+  "seeOptions": "See Options",
+  "greeting": "Hello, {name}!",
+  "logout": "Log out",
+  "profile": "Profile"
+}
