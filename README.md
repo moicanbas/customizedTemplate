@@ -2,6 +2,13 @@
 
 Este repositorio contiene una plantilla personalizada que he desarrollado utilizando **Vue 3** como framework principal, **Tailwind CSS** para el diseño y estilos, y **PrimeVue** como biblioteca de componentes de interfaz de usuario. Esta combinación permite crear aplicaciones web modernas y responsivas de manera eficiente.
 
+# Menú
+
+- [Características](#características)
+- [Requisitos](#requisitos)
+- [Instalación](#instalación)
+- [Contribuciones](#contribuciones)
+
 ## Características
 
 - **Vue 3**: Disfruta de todas las funcionalidades y mejoras que ofrece la última versión de Vue.
@@ -44,8 +51,8 @@ Para probar la plantilla en tu entorno local, sigue estos pasos:
 
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor sigue los siguientes pasos:
 
-Realiza un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/nueva-caracteristica).
-Realiza tus cambios y haz commit (git commit -m 'Agrega una nueva característica').
-Sube tus cambios (git push origin feature/nueva-caracteristica).
-Crea un Pull Request.
+1. Realiza un fork del repositorio.
+2. Crea una nueva rama (git checkout -b feature/nueva-caracteristica).
+3. Realiza tus cambios y haz commit (git commit -m 'Agrega una nueva característica').
+4. Sube tus cambios (git push origin feature/nueva-caracteristica).
+5. Crea un Pull Request.
